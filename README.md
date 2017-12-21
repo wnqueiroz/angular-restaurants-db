@@ -1,6 +1,7 @@
-# Base de dados da aplicação MEAT com `json-server` no **Heroku** 
+# Base de dados da aplicação [MEAT](https://angular-restaurants.herokuapp.com/) com `json-server` no **Heroku** 
 
 * [Deploy no **Heroku**](#deploy-no-heroku)
+* [Instalando e configurando **Heroku**](#instalando-e-configurando-o-heroku)
 * [Como funciona?](#como-funciona)
 
 
