@@ -55,7 +55,7 @@ heroku logs --tail
 
 ---
 
-#### Como funciona?
+### Como funciona?
 
 O Heroku procurará o script de inicialização, por padrão `npm start` então, certifique-se que tenha o seguinte trecho em seu `package.json` (supondo que o script execute `server.js`):
 ```json
